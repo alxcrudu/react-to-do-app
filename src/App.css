@@ -7,7 +7,7 @@
   }
 
   body {
-    background: linear-gradient(to right, #000, rgb(32, 0, 92));
+    background: #f0f0f0
   }
   .todo-app {
     display: flex;
